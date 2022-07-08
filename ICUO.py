@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 # m1_ = 'Image_Colorization_Using_Optimization\\resources\\example3_marked.bmp'
 # m2_ = 'Image_Colorization_Using_Optimization\\resources\\example3.bmp'
 m1_ = 'Image_Colorization_Using_Optimization\\resources\\baby1.bmp'
-m2_ = 'Image_Colorization_Using_Optimization\\resources\\baby.bmp'
+m2_ = 'Image_Colorization_Using_Optimization\\resources\\baby2.bmp'
 
 m1 = imread(m1_)
 m2 = imread(m2_)
